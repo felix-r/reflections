@@ -17,3 +17,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Add the files that you want to commit to staging area. Then commit.
 Repeat for new other changes that you want to have in a different commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When I have experimental changes to my code 
+or I just want to change the style of the program by keeping the original intact, 
+branches can help to keep things organized.
