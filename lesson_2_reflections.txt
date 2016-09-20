@@ -5,3 +5,8 @@ A repsoitory contains the files you wanna make commits to,
 to later be able to track these.
 You need it, so that git knows where to apply commits to 
 and which files should be tracked for a specific project. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a virtual environment in git where you can add changes before 
+comitting them to the repository.
