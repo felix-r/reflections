@@ -10,3 +10,10 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is a virtual environment in git where you can add changes before 
 comitting them to the repository.
+With that it is able to change several programs at once, 
+but make single commits per program change.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add the files that you want to commit to staging area. Then commit.
+Repeat for new other changes that you want to have in a different commit
