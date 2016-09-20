@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When initializing a repository git is able to track files in it.
+A repsoitory contains the files you wanna make commits to, 
+to later be able to track these.
+You need it, so that git knows where to apply commits to 
+and which files should be tracked for a specific project. 
