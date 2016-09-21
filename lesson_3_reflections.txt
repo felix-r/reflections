@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If I want to use different Computers to work on the same project I could push changes to github
+on the first machine and then pull them on the other and keep making changes there ...
+Also if several people work on the same project you can use github to push your changes there
+and make them visible for other users/developers
