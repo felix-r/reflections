@@ -35,3 +35,9 @@ Merging to branches creates files that contain features from both branches.
 The merged branch will contain the commits from both branches.
 The commits will be sorted chronologically.
 With git show you can see changes in the parent of this commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro
++ can easily bring together features that you wanna have in the final documents
+- git doesnt know about the functionability that is part of both branches and might has to guess what to withdraw and what to keep
